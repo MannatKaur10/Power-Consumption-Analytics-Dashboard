@@ -252,7 +252,7 @@ Provides detailed customer-level information for deeper analysis.
 
 
 
-!\[Dashboard Overview](Images/01\_Dashboard\_Overview.png)
+![Dashboard Overview](Images/01_Dashboard_Overview.png)
 
 
 
@@ -260,7 +260,7 @@ Provides detailed customer-level information for deeper analysis.
 
 
 
-!\[Customer Analysis](Images/02\_Customer\_Analysis.png)
+![Customer Analysis](Images/02_Customer_Analysis.png)
 
 
 
@@ -268,7 +268,7 @@ Provides detailed customer-level information for deeper analysis.
 
 
 
-!\[Customer Details](Images/03\_Customer\_Details.png)
+![Customer Details](Images/03_Customer_Details.png)
 
 
 
@@ -276,7 +276,7 @@ Provides detailed customer-level information for deeper analysis.
 
 
 
-!\[SQL Database](Images/04\_SQL\_Database.png)
+![SQL Database](Images/04_SQL_Database.png)
 
 
 
@@ -284,7 +284,7 @@ Provides detailed customer-level information for deeper analysis.
 
 
 
-!\[Excel Analysis](Images/05\_Excel\_Analysis.png)
+![Excel Analysis](Images/05_Excel_Analysis.png)
 
 
 
