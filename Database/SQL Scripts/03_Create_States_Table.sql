@@ -1,0 +1,9 @@
+USE PowerConsumptionDB;
+GO
+
+CREATE TABLE States(
+   StateID INT PRIMARY KEY IDENTITY(1,1),
+   StateName VARCHAR(50) NOT NULL,
+   Region VARCHAR(20) NOT NULL
+);
+GO
